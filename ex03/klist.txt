@@ -2,6 +2,5 @@ Credentials cache: API:22966
         Principal: mgould@42.US.ORG
 
   Issued                Expires               Principal
-Oct 24 15:28:13 2016  Oct 25 01:28:13 2016  krbtgt/42.US.ORG@42.US.ORG
-Oct 24 15:28:14 2016  Oct 25 01:28:13 2016  ldap/ldap-proxy.42.us.org@42.US.ORG
-Oct 24 16:26:19 2016  Oct 25 01:28:13 2016  host/vgs-fn1.42.us.org@42.US.ORG
+Oct 25 23:02:26 2016  Oct 26 09:02:26 2016  krbtgt/42.US.ORG@42.US.ORG
+Oct 25 23:02:27 2016  Oct 26 09:02:26 2016  ldap/ldap-proxy.42.us.org@42.US.ORG
